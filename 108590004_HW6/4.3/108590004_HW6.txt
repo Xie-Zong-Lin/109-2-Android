@@ -1,0 +1,14 @@
+Answer 1:
+menu_main.xml
+
+
+Answer 2:
+onClick(View view)
+
+
+Answer 3:
+myAlertBuilder.setTitle("Alert");
+
+
+Answer 4:
+In the onCreateDialog() method in the extension of DialogFragment.
