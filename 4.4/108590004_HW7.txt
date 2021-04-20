@@ -1,0 +1,8 @@
+Answer1:
+Navigation Drawer Activity template
+
+Answer2:
+com.android.support:design
+
+Answer3:
+To provide the Up button for a child screen Activity, declare the parent Activity in the child Activity section of the AndroidManifest.xml file.
