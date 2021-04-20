@@ -1,0 +1,8 @@
+Answer1:
+You don't need a layout manager with a RecyclerView to handle the hierarchy and layout of View elements.
+
+Answer2:
+RecyclerView.ViewHolder
+
+Answer3:
+View.onClickListener

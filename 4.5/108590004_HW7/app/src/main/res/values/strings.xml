@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">108590004_HW7</string>
+
+    <string name="DongPO_Pork">DongPO_Pork</string>
+    <string name="DongPO_Pork_Intro">The meat is blanched to get rid of the scum,
+        then braised till tender, then finally steamed.
+        Do not skip the steaming step as it is believed to make the meat more tender while retaining its shape and produce melt-in-your-mouth fats.</string>
+    <string name="Scrambled_Eggs_with_Tomatoes">Scrambled_Eggs_with_Tomatoes</string>
+    <string name="Scrambled_Eggs_with_Tomatoes_Intro">Scrambled eggs with tomatoes is a home-cooked dish.
+        To make them smooth and delicious with moderate moisture, there is still a bit of skill.
+        The perfect combination of egg aroma and tomato sweetness, sour and sweet taste,
+        interweave a juicy and soft taste,
+        simple but delicious, let the most ordinary homely food with five-star quality.
+        The classic home-cooked dish, scrambled eggs with tomatoes, is a staple of the family dinner table.</string>
+</resources>
